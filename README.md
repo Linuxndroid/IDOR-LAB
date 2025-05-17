@@ -19,7 +19,7 @@ IDOR Web App For Practices and Learning Purpose
 - Step.3 Now Boom the 2nd User Removed in Website and You can Login there account and Takover.
 
 # Watch Video For More Information.
-[![YouTube Video](https://img.youtube.com/vi/GDlxrAV2v2k/0.jpg)](https://www.youtube.com/watch?v=GDlxrAV2v2k)
+[![YouTube Video](https://img.youtube.com/vi/R83-GAYB4YA/0.jpg)](https://www.youtube.com/watch?v=R83-GAYB4YA)
 
 # Check Out More [Hacking Course](https://linuxndroid.in)
 
